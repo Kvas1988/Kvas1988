@@ -1,7 +1,7 @@
 ## 👋 Hi there! I'm Aleksandr Shohin
 
 ---
-I'm a beginner Java backend-developer from Moscow, passionate about tech (mostly web, machine learning, gamedev and graphics).
+I'm a hobby coder passionate about tech (mostly web, machine learning, gamedev and graphics).
 
 Here's some of my pet-projects 
 
