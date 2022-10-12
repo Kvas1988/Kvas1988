@@ -17,6 +17,7 @@ Here's some of my pet-projects
 - [Ray Tracing in One Weekend](https://github.com/Kvas1988/RayTracingOneWeekend): Implementation of [famous book by Piter Shirley](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
 - [Yandex/MIPT C++ Belts](https://github.com/Kvas1988/yandex_cpp_belts) (WIP 2/5): Test assignments for Yandex's course on Coursera.
 - [LearnOpenGL](https://github.com/Kvas1988/LearnOpenGL) (WIP): another implementation of [learnopengl.com](https://learnopengl.com/) book.
+- [Vulkan Engine](https://github.com/Kvas1988/vulkan_engine): Code for tutorial by [Brendan Galea on youtube](https://www.youtube.com/playlist?list=PL8327DO66nu9qYVKLDmdLW_84-yE4auCR). Implementing 3D engine based on vulkan api
 
 ## Python
 
