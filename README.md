@@ -21,6 +21,6 @@ Here's some of my pet-projects
 
 ## Python
 
-- [skp tools](https://github.com/Kvas1988/skp_tools). Some sql queries and python scripts which I used when I worken at snowqueen company (retail - fashion).
+- [skp tools](https://github.com/Kvas1988/skp_tools). Some sql queries and python scripts which I used when I worked at snowqueen company (retail - fashion).
 - [Docker_FlaskML](https://github.com/Kvas1988/Docker_FlaskML): small project based on flask server which returns prediction from a trained model. All packed in docker container.
 - [MIPT Machine Learning Specialization](https://github.com/Kvas1988/mipt_ml_specialization): notebooks based on tasks given in MIPT ML spec (Coursera).
